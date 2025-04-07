@@ -1,0 +1,48 @@
+*{
+    text-align: center;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+
+.RadhaKrishna{
+    background-image: url("./RadhaKrishna.jpg");
+    background-size: cover;
+}
+
+.RadhaRani{
+    background-image: url("./RadhaRani.jpg");
+    background-size: cover;
+}
+
+.KrishnaBalram{
+    background-image: url("./krishnaBalram.jpg");
+    background-size: cover;
+}
+
+.JagannathJi{
+    background-image: url("./JagannathJi.jpg");
+    background-size: cover;
+}
+
+.container{
+    height: 450px;
+    width: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px auto;
+    justify-content: space-between;
+}
+
+.flash{
+    background-image:none;
+}
+
+.uFlash{
+        background-image:none;
+        background-color: green;
+}
