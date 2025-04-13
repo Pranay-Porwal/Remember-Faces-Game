@@ -1,6 +1,6 @@
 # 🧠 Simon Says Game
 
-A fun and interactive memory game inspired by the classic "Simon Says"! Test your memory by following an ever-growing sequence of colors. Built with HTML, CSS, and JavaScript.
+A fun and interactive memory game inspired by the classic "Simon Says"! Test your memory by following an ever-growing sequence of faces. Built with HTML, CSS, and JavaScript.
 
 ---
 
